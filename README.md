@@ -24,14 +24,14 @@
 ##### - Successfull Payment Detail from braintree dashboard
 <img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/Braintree_details.png" alt="drawing" width="800" height="500"/>
 
-##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
+##### - Home page with user logged in and Navbar items rendered for logged in user
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/home_logged_in.png" alt="drawing" width="800" height="500"/>
 
-##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
+##### - APIs from backend
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/api_urls.png" alt="drawing" width="800" height="500"/>
 
-##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
+##### - User Authentication APIs login/signup 
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/user_urls.png" alt="drawing" width="800" height="500"/>
 
 ##### - Main screen
 <img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
