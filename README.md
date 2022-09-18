@@ -33,8 +33,8 @@
 ##### - User Authentication APIs login/signup 
 <img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/user_urls.png" alt="drawing" width="800" height="500"/>
 
-##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
+##### - ReactJS Router
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/react_router.png" alt="drawing" width="800" height="500"/>
 
-##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="800" height="500"/>
+##### - User Data Serializer 
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/serializer.png.png" alt="drawing" width="800" height="500"/>
