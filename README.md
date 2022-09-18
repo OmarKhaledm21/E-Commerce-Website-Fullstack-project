@@ -5,4 +5,4 @@
 
 
 ##### - Main screen
-<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="270"/>
+<img src="https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project/blob/main/SS/sigin_home.png" alt="drawing" width="270" height="270"/>
